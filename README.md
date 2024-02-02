@@ -1,4 +1,14 @@
-### Hi there 👋
+### Hi there 👋🤠
+
+This is Arshia, 
+- Software engineering student at CIU
+- Interested in Front-end development
+- I'm currently busy with learning React JS
+- Do you have a innovative project? i'm in for any collaboration🤝
+
+Reach me out on:
+Instagram : @justaguyfromspace
+Telegram : @sachima
 
 <!--
 **RshiaRahmani/RshiaRahmani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
