@@ -3,24 +3,10 @@
 This is Arshia, 
 - Software engineering student at CIU
 - Interested in Front-end development
-- I'm currently busy with learning React JS
+- currently working on React JS
 - Do you have a innovative project? i'm in for any collaboration🤝
 
 Reach me out on:
 Instagram : @justaguyfromspace
 Telegram : @sachima
-
-<!--
-**RshiaRahmani/RshiaRahmani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Discord : Arshia#2769
