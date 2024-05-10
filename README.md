@@ -1,6 +1,6 @@
 ### Hi there 👋🤠
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&center=true&random=false&width=435&lines=Hello+There%F0%9F%99%8C;This+is+Arshia)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&center=true&random=false&width=435&lines=Hi+There%F0%9F%91%8B%F0%9F%A4%A0;This+is+Arshia)](https://git.io/typing-svg)
 
 This is Arshia, 
 - Software engineering student at CIU
